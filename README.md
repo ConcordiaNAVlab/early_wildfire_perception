@@ -22,7 +22,7 @@ preception applications:**
 
 ## Features
 
-| functions                                            | results                                   |
+| features                                             |                                           |
 | ---------------------------------------------------- | ----------------------------------------- |
 | Attention gate U-net wildfire segmentation           | ![path](./doc/figure_attentionunet-1.png) |
 | Trianglulation-based wildfire point depth estimation | ![path](./doc/video_04.png)               |
