@@ -7,8 +7,9 @@
 ## Preception Methods overview
 
 ![overview](./doc/overview-1.png)
- <img src="./doc/exper_scen.png" width = "300" height = "200" alt="expr" align=center />
- <img src="./doc/real_1.jpg" width = "300" height = "200" alt="real" align=center />
+|                                                      |                                           |
+| ---------------------------------------------------- | ----------------------------------------- |
+| ![expr](./doc/exper_scen.png)                        | ![real](./doc/real_1.jpg)                 |
 
 **In this work, we implemented several functions based on DJI M300 Drone and H20T camera for the early wildfire point
 preception applications:**
