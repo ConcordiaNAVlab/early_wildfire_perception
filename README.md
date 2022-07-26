@@ -22,12 +22,12 @@ preception applications:**
 
 ## Features
 
-| functions                                            | results                                              |
-|------------------------------------------------------|------------------------------------------------------|
-| Attention gate U-net wildfire segmentation           | ![path](./document/flight_test_res/trajectory_1.png) |
-| Trianglulation-based wildfire point depth estimation | ![path](./document/flight_test_res/class.png)        |
-| Visible-infrared camera system calibration           | ![path](./document/flight_test_res/mask.png)         |
-| Model-based wide fire point registration             | ![path](./document/flight_test_res/mask.png)         |
+| functions                                            | results                                   |
+| ---------------------------------------------------- | ----------------------------------------- |
+| Attention gate U-net wildfire segmentation           | ![path](./doc/figure_attentionunet-1.png) |
+| Trianglulation-based wildfire point depth estimation | ![path](./doc/video_04.png)               |
+| Visible-infrared camera system calibration           | ![path](./doc/init_registration-1.png)    |
+| Model-based wide fire point registration             | ![path](./doc/video_05.png)               |
 
 ## Realted Works
 
@@ -56,7 +56,6 @@ For each submodules:
 3. `cmake cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1 -DCMAKE_BUILD_TYPE=Release ..`
 
 The executable file will be generated under `<submodules>/bin` directory.
-
 
 ## Copyright
 
