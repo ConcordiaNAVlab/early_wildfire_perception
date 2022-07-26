@@ -1,14 +1,12 @@
 # Early wildfire point perception methods
 
-## Outdoor experiment video
+## [Outdoor experiment video](https://www.youtube.com/user/NAVConcordia)
 
 ![preception trajectory](https://github.com/lee-shun/big_files/blob/master/images/wildfire_point_perception/preception.gif)
 
 ## Preception Methods overview
 
-![overview](./doc/overview-1.png)
-![expr](./doc/exper_scen.png)
-![real](./doc/real_1.jpg)
+![overview](./doc/overview-1.png) ![expr](./doc/exper_scen.png) ![real](./doc/real_1.jpg)
 
 **In this work, we implemented several functions based on DJI M300 Drone and H20T camera for the early wildfire point
 preception applications:**
