@@ -34,7 +34,7 @@ preception applications:**
 
 ## Realted Works
 
-- We use the [forest fire detection ststom](https://github.com/ConcordiaNAVlab/forest_fire_detection_system) to control
+- We use the [forest fire detection system](https://github.com/ConcordiaNAVlab/forest_fire_detection_system) to control
   M300 and capture the data during the trajectory.
 
 ## Hardware
