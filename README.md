@@ -25,9 +25,9 @@ preception applications:**
 | features                                             |                                           |
 | ---------------------------------------------------- | ----------------------------------------- |
 | Attention gate U-net wildfire segmentation           | ![path](./doc/figure_attentionunet-1.png) |
-| Trianglulation-based wildfire point depth estimation | ![path](./doc/video_04.png)               |
+| Trianglulation-based wildfire point depth estimation | ![path](./doc/video_05.png)               |
 | Visible-infrared camera system calibration           | ![path](./doc/init_registration-1.png)    |
-| Model-based wide fire point registration             | ![path](./doc/video_05.png)               |
+| Model-based wide fire point registration             | ![path](./doc/video_04.png)               |
 
 ## Realted Works
 
