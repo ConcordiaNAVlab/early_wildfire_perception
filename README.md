@@ -17,10 +17,10 @@ preception applications:**
 - The wildfire point is firstly segmented by CNN-based networks to provide the semantic information for the other
   submodules in the framework.
 
-- After the the indoor calibration, the preceis camera trajectory with correct scale is recoveried by ORB-SLAM2 and
-  drone platformation navigation information. The the depth is estimated.
+- After the indoor calibration, the precise camera trajectory with correct scale is recoveried by ORB-SLAM2 and the
+  drone platform navigation information. Then the depth is estimated.
 
-- A model based Visible-infrared images registration is proposed to fuse the two types of information to reduce the
+- A model-based visible-infrared images registration is proposed to fuse the two types of information to reduce the
   false positive alram further.
 
 ## Features
