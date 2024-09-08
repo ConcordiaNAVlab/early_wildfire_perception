@@ -4,7 +4,7 @@
 
 ![preception trajectory](https://github.com/lee-shun/big_files/blob/master/images/wildfire_point_perception/preception.gif)
 
-## Preception Methods overview
+## Preception Methods ooverview
 
 ![overview](./doc/overview-1.png)
 |                                                      |                                           |
